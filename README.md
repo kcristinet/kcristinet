@@ -1,6 +1,6 @@
-- # Olá, eu sou Karilene Cristine!
+# Olá, eu sou Karilene Cristine!
 
-Estou em transição de carreira para a área de **Cloud Engineering** e atualmente estou estudando **AWS** pela **Generation Brasil**. Tenho experiência prévia na área financeira e estou focada em desenvolver minhas habilidades técnicas, especialmente em **computação em nuvem**, para atuar em ambientes desafiadores e inovadores. Meu objetivo é contribuir para soluções que envolvem infraestrutura escalável, segurança e automação de processos.
+Estou em transição de carreira para a área de **Cloud Engineering** e atualmente estou estudando **AWS** pela **Generation Brasil**. Tenho experiência prévia na área financeira atualmente cursando **Análises e Desenvolvimento de Sistemas** pela **Fundção Getulio Vargas (FGV)** e estou focada em desenvolver minhas habilidades técnicas, especialmente em **computação em nuvem**, para atuar em ambientes desafiadores e inovadores. Meu objetivo é contribuir para soluções que envolvem infraestrutura escalável, segurança e automação de processos.
 
 ---
 
@@ -17,10 +17,11 @@ Estou em transição de carreira para a área de **Cloud Engineering** e atualme
 Aqui estão alguns dos meus projetos:
 
 - **[API Refatorada - Generation Brasil](https://github.com/kcristinet/escola)**: Desenvolvimento de uma API com autenticação JWT, CRUD completo e deploy no Render.
+- **[Projeto de Infraestrutura em AWS](link)**: Aplicação de práticas e ferramentas da AWS para gerenciar infraestrutura de cloud.
 - **[Projeto Wordpress](https://github.com/kcristinet/projeto-wordpress)**: Desenvolvimento e configuração de um site utilizando a plataforma Wordpress.
   
 Certificados:
-- **[Certificação AWS]** pela **Generation Brasil**.
+- **[Certificação AWS](link)** pela **Generation Brasil**.
   
 Tecnologias que domino:
 - **AWS** (EC2, S3, Lambda, RDS)
@@ -41,8 +42,14 @@ Tecnologias que domino:
 
 ---
 
+## Gráficos de Atividade no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karilene&show_icons=true&count_private=true&hide_title=true)
+
+---
+
 ## Contato
 
-- **LinkedIn**: [Karilene Cristine](https://www.linkedin.com/in/karilene-cristine-teixeira-90aab534/)
+- **LinkedIn**: [Karilene Cerqueira](https://www.linkedin.com/in/karilene-cristine-teixeira-90aab534/)
 - **GitHub**: [github.com/karilene](https://github.com/karilene)
 - **Email**: [kcristinet@hotmail.com](mailto:kcristinet@hotmail.com)
