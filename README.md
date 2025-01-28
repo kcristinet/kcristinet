@@ -41,12 +41,6 @@ Tecnologias que domino:
 
 ---
 
-## Gráficos de Atividade no GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karilene&show_icons=true&count_private=true&hide_title=true)
-
----
-
 ## Contato
 
 - **LinkedIn**: [Karilene Cristine](https://www.linkedin.com/in/karilene-cristine-teixeira-90aab534/)
