@@ -17,7 +17,6 @@ Estou em transição de carreira para a área de **Cloud Engineering** e atualme
 Aqui estão alguns dos meus projetos:
 
 - **[API Refatorada - Generation Brasil](https://github.com/kcristinet/escola)**: Desenvolvimento de uma API com autenticação JWT, CRUD completo e deploy no Render.
-- **[Projeto de Infraestrutura em AWS](link)**: Aplicação de práticas e ferramentas da AWS para gerenciar infraestrutura de cloud.
 - **[Projeto Wordpress](https://github.com/kcristinet/projeto-wordpress)**: Desenvolvimento e configuração de um site utilizando a plataforma Wordpress.
   
 Certificados:
@@ -42,14 +41,8 @@ Tecnologias que domino:
 
 ---
 
-## Gráficos de Atividade no GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karilene&show_icons=true&count_private=true&hide_title=true)
-
----
-
 ## Contato
 
-- **LinkedIn**: [Karilene Cerqueira](https://www.linkedin.com/in/karilene-cristine-teixeira-90aab534/)
+- **LinkedIn**: [Karilene Cristine](https://www.linkedin.com/in/karilene-cristine-teixeira-90aab534/)
 - **GitHub**: [github.com/karilene](https://github.com/karilene)
 - **Email**: [kcristinet@hotmail.com](mailto:kcristinet@hotmail.com)
