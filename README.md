@@ -16,8 +16,9 @@ Estou em transição de carreira para a área de **Cloud Engineering** e atualme
 
 Aqui estão alguns dos meus projetos:
 
-- **[API Refatorada - Generation Brasil](link)**: Desenvolvimento de uma API com autenticação JWT, CRUD completo e deploy no Render.
+- **[API Refatorada - Generation Brasil](https://github.com/kcristinet/escola)**: Desenvolvimento de uma API com autenticação JWT, CRUD completo e deploy no Render.
 - **[Projeto de Infraestrutura em AWS](link)**: Aplicação de práticas e ferramentas da AWS para gerenciar infraestrutura de cloud.
+- **[Projeto Wordpress](https://github.com/kcristinet/projeto-wordpress)**: Desenvolvimento e configuração de um site utilizando a plataforma Wordpress.
   
 Certificados:
 - **[Certificação AWS]** pela **Generation Brasil**.
