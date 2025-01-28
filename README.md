@@ -1,6 +1,6 @@
 # Olá, eu sou Karilene Cristine!
 
-Estou em transição de carreira para a área de **Cloud Engineering** e atualmente estou estudando **AWS** pela **Generation Brasil**. Tenho experiência prévia na área financeira atualmente cursando **Análises e Desenvolvimento de Sistemas** pela **Fundção Getulio Vargas (FGV)** e estou focada em desenvolver minhas habilidades técnicas, especialmente em **computação em nuvem**, para atuar em ambientes desafiadores e inovadores. Meu objetivo é contribuir para soluções que envolvem infraestrutura escalável, segurança e automação de processos.
+Estou em transição de carreira para a área de **Cloud Engineering** e atualmente estou estudando **AWS** pela **Generation Brasil**. Tenho experiência prévia na área financeira atualmente cursando **Análise e Desenvolvimento de Sistemas** pela **Fundção Getulio Vargas (FGV)** e estou focada em desenvolver minhas habilidades técnicas, especialmente em **computação em nuvem**, para atuar em ambientes desafiadores e inovadores. Meu objetivo é contribuir para soluções que envolvem infraestrutura escalável, segurança e automação de processos.
 
 ---
 
